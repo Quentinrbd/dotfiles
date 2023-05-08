@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quentin.rbd@gmail.com
+	name = Quentin Ribardière quentin.rbd@gmail.com
